@@ -1,0 +1,10 @@
+{
+  "name": "VisionTrack AI - Video Object Detection & Analytics Studio",
+  "description": "Production-ready computer vision studio for real-time multi-object tracking, tripwire counting, trajectory analytics, and AI scene intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
